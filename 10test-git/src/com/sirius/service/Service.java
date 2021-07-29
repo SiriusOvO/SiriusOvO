@@ -6,5 +6,5 @@ public interface Service {
 	void m3();
 	void m4();
     void m5();
-
+    void branch1();
 }
